@@ -1,4 +1,4 @@
-[![array-in-a-matrix's GitHub stats](https://github-readme-stats.vercel.app/api?username=array-in-a-matrix&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![array-in-a-matrix's GitHub stats](https://github-readme-stats.vercel.app/api?username=array-in-a-matrix&count_private=true&show_icons=true&show_owner=false)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **array-in-a-matrix/array-in-a-matrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
