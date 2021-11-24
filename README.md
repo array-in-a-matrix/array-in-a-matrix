@@ -3,10 +3,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=array-in-a-matrix&langs_count=10&count_private=true&include_all_commits=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 I am a self-taught programmer, and know how to write code in:
-- C
-- Python
 - Javascript
 - HTML & CSS
+- C
+- Python
 - Shellscript
 
 <!--
