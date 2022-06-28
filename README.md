@@ -2,7 +2,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=array-in-a-matrix&langs_count=3&count_private=true&include_all_commits=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github.com/array-in-a-matrix/github-stats/blob/master/generated/overview.svg) ![](https://github.com/array-in-a-matrix/github-stats/blob/master/generated/languages.svg)
 
-
+***I have moved from github to my own [gitea instance](https://git.arrayinamatrix.xyz)!***
+<br>
+<br>
 I am a self-taught programmer, and \`know\` how to write code in:
 - Javascript
 - HTML & CSS
