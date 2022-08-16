@@ -15,7 +15,7 @@ I am a self-taught programmer, and \`know\` how to write code in:
 
 ***I have moved from GitHub to my own [Gitea instance](https://git.arrayinamatrix.xyz)!***
 <br>
-***Issues and pull requests are prefered to be made on Gitea as thats were projects will be updated first.***
+***Issues and pull requests are prefered to be made on Gitea as thats were projects will be created and updated first.***
 
 <!--
 **array-in-a-matrix/array-in-a-matrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
