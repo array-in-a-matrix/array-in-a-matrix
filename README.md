@@ -6,16 +6,16 @@
 
 <br>
 
-I am a self-taught programmer, and \`know\` how to write code in:
+I am a self-taught programmer, and \`know\` how to write code in these langauges:
 - Javascript
 - HTML & CSS
 - C
 - Python
-- Shellscript
+- Shell
 
 <br>
 
-***I have moved from GitHub to my own [Gitea instance](https://git.arrayinamatrix.xyz)!***
+***I have moved from GitHub to my own [Gitea instance](https://git.arrayinamatrix.xyz)***!
 <br>
 ***Issues and pull requests are prefered to be made on Gitea as thats were projects will be created and updated first.***
 
