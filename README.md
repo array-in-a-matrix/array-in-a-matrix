@@ -1,12 +1,10 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=array-in-a-matrix&count_private=true&include_all_commits=true&show_icons=true&custom_title=GitHub%20stats&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=array-in-a-matrix&langs_count=3&count_private=true&include_all_commits=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github.com/array-in-a-matrix/github-stats/blob/master/generated/overview.svg) ![](https://github.com/array-in-a-matrix/github-stats/blob/master/generated/languages.svg)
-<br>
+
  <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/array-in-a-matrix/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/array-in-a-matrix/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/array-in-a-matrix/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table> 
 
 ![](https://komarev.com/ghpvc/?username=array-in-a-matrix&color=grey)
-
-<br>
 
 I am a self-taught programmer, and \`know\` how to write code in these langauges:
 - Javascript
@@ -15,11 +13,11 @@ I am a self-taught programmer, and \`know\` how to write code in these langauges
 - Python
 - Shell
 
-<br>
-
 ***I have moved from GitHub to my own [Gitea instance](https://git.arrayinamatrix.xyz)***!
-<br>
-***Issues and pull requests are prefered to be made on Gitea as thats were projects will be created and updated first.***
+
+***All of my projects are hosted on there.***
+
+[<img src="https://user-images.githubusercontent.com/78233840/200217531-df7c9745-3081-43a2-8322-7a69e306dcd8.png" alt="gitea" width="200"/>](https://git.arrayinamatrix.xyz)
 
 <!--
 **array-in-a-matrix/array-in-a-matrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
