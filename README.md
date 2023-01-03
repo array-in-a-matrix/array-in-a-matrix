@@ -17,7 +17,7 @@ I am a self-taught programmer, and \`know\` how to write code in these langauges
 
 ***All of my projects are hosted on there.***
 
-[<img src="https://user-images.githubusercontent.com/78233840/200217531-df7c9745-3081-43a2-8322-7a69e306dcd8.png" alt="gitea" width="200"/>](https://git.arrayinamatrix.xyz)
+[<img src="https://user-images.githubusercontent.com/78233840/200217531-df7c9745-3081-43a2-8322-7a69e306dcd8.png" alt="gitea" width="200"/>](https://git.arrayinamatrix.xyz/array-in-a-matrix)
 
 <!--
 **array-in-a-matrix/array-in-a-matrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
