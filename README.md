@@ -12,6 +12,7 @@ I am a self-taught programmer, and \`know\` how to write code in these langauges
 - C
 - Python
 - Shell
+- nim
 
 ***I have moved from GitHub to my own [Gitea instance](https://git.arrayinamatrix.xyz)***!
 
