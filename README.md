@@ -16,7 +16,7 @@ I am a self-taught programmer, and \`know\` how to write code in these langauges
 
 ***I have moved from GitHub to my own [Gitea instance](https://git.arrayinamatrix.xyz)***!
 
-***All of my projects are hosted on there.***
+***All of my projects are hosted on there, GitHub is reserved for contributuions.***
 
 [<img src="https://user-images.githubusercontent.com/78233840/200217531-df7c9745-3081-43a2-8322-7a69e306dcd8.png" alt="gitea" width="200"/>](https://git.arrayinamatrix.xyz/array-in-a-matrix)
 
