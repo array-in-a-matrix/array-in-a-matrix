@@ -12,7 +12,7 @@ I am a self-taught programmer, and \`know\` how to write code in these langauges
 - Shell
 - nim
 
-***I have moved from GitHub to my own [Gitea instance](https://git.arrayinamatrix.xyz)***!
+***I have moved from GitHub to my own [Gitea instance](https://git.arrayinamatrix.xyz)!***
 
 ***All of my projects are hosted on there, GitHub is reserved for contributuions.***
 
