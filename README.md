@@ -1,9 +1,3 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=array-in-a-matrix&count_private=true&include_all_commits=true&show_icons=true&custom_title=GitHub%20stats&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=array-in-a-matrix&langs_count=3&count_private=true&include_all_commits=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github.com/array-in-a-matrix/github-stats/blob/master/generated/overview.svg) ![](https://github.com/array-in-a-matrix/github-stats/blob/master/generated/languages.svg)
-
-![](https://komarev.com/ghpvc/?username=array-in-a-matrix&color=grey)
-
 I am a self-taught programmer, and \`know\` how to write code in these langauges:
 - Javascript
 - HTML & CSS
@@ -12,23 +6,8 @@ I am a self-taught programmer, and \`know\` how to write code in these langauges
 - Shell
 - Nim
 
-***I have moved from GitHub to my own [Gitea instance](https://git.arrayinamatrix.xyz)!***
+***I have moved from GitHub to my own [~~Gitea~~ Forgejo instance](https://git.inamatrix.xyz)!***
 
 ***All of my projects are hosted on there, GitHub is reserved for contributuions.***
 
-[<img src="https://user-images.githubusercontent.com/78233840/200217531-df7c9745-3081-43a2-8322-7a69e306dcd8.png" alt="gitea" width="200"/>](https://git.arrayinamatrix.xyz/array-in-a-matrix)
-
-<!--
-**array-in-a-matrix/array-in-a-matrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://github.com/array-in-a-matrix/array-in-a-matrix/assets/78233840/5e0e190b-f457-4106-878c-e8d7e8882b3d" alt="gitea forgejo" width="200"/>](https://git.inamatrix.xyz/array-in-a-matrix)
