@@ -4,7 +4,7 @@ I am a self-taught programmer, and \`know\` how to write code in these langauges
 - C
 - Python
 - Shell
-- Nim
+- Nim <3
 
 ***I have moved from GitHub to my own [~~Gitea~~ Forgejo instance](https://git.inamatrix.xyz)!***
 
