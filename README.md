@@ -1,11 +1,11 @@
 I am a self-taught programmer, and \`know\` how to write code in these langauges:
+- Nim <3
 - Javascript
-- HTML & CSS
 - C
 - Python
-- Shell
-- Nim <3
-
+- POSIX Shell
+- MATLAB
+  
 ***I have moved from GitHub to my own [~~Gitea~~ Forgejo instance](https://git.inamatrix.xyz)!***
 
 ***All of my projects are hosted on there, GitHub is reserved for contributuions.***
